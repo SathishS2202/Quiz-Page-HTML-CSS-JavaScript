@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(to right, gold,white);
+}
+.container{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: linear-gradient(to right, violet,lightgreen);
+    padding: 20px;
+    width: 90%;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: bold;
+    font-size: x-large;
+}
+.head{
+    margin: 15px 20px;
+
+}
+ .Title{
+    margin-left:750px ;
+    color:Red;
+ }
+h4{
+    display: inline;
+    margin-left: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+}
+button{
+    padding: 20px 30px;
+    background-color: rgb(230, 62, 62);
+    color: white;
+    border: 1px solid rgb(77, 76, 76);
+}
